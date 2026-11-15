@@ -1,0 +1,14 @@
+{
+    "id":  "com.roiptv.premium",
+    "version":  "1.0.14",
+    "type":  "web",
+    "title":  "ROIPTV Premium",
+    "appDescription":  "Free IPTV player for LG webOS. Connect with an ROIPTV account or use your own playlist. No channels or playlists are bundled.",
+    "iconUri":  "https://raw.githubusercontent.com/andrei199312/Roiptv/main/homebrew/icon.png",
+    "ipkUrl":  "https://github.com/andrei199312/Roiptv/raw/refs/heads/main/ROIPTV-Premium-webOS-1.0.10.ipk",
+    "ipkHash":  {
+                    "sha256":  "C17F454526C95F1EF61676ABF3A8626035CC5B45EFC4AE2DDCB3D1B6D5439653"
+                },
+    "ipkSize":  2141198,
+    "installedSize":  4577109
+}
